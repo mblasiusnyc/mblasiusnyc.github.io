@@ -2,7 +2,7 @@
 
 title:            Mike Blasius
 locale:           en_US
-url:              http://localhost:4000
+url:              http://mikeblasius.com
 
 
 # Jekyll configuration
@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Mike Blasius
   avatar: bio-photo.jpg
-  bio: "I am a web-developer based out of Boulder, CO. I am a fan of elegant solutions."
+  bio: "I am a web-developer based out of Boulder, CO."
   email: 
   disqus-shortname: 
   twitter: mikeblasius
